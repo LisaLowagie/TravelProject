@@ -164,6 +164,9 @@ footer a {
     width: 100%;
     aspect-ratio: 1 /1;
 }
+.instagram-embeds {
+    margin: 30px 0;
+}
 .card-body {
     padding: 30px;
 }
@@ -183,6 +186,7 @@ footer a {
     background-color: #120545;
     text-decoration: none;
 }
+
 @media (max-width: 960px) {
     header {
         padding: 60px 0;
